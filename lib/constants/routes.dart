@@ -1,0 +1,1 @@
+const createUpdateroute = '/notes/new-note';
